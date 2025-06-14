@@ -180,6 +180,7 @@ pytube==15.0.0
 pytz==2025.2
 pyvis==0.3.2
 PyYAML==6.0.2
+pysqlite3-binary # For newer sqlite3 version
 qdrant-client==1.14.2
 referencing==0.36.2
 regex==2024.11.6
